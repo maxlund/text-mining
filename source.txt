@@ -1,0 +1,2 @@
+source /home/732A92/labs/environment/bin/activate
+
